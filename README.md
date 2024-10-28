@@ -1,0 +1,2 @@
+# newmagicwand
+ project 1
